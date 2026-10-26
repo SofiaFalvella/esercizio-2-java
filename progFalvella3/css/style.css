@@ -1,0 +1,18 @@
+
+body{
+    background-color: rgb(222, 218, 218);
+}
+
+.container{
+    margin:auto;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.totale{
+    background-color: rgb(222, 218, 218);
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
